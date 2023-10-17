@@ -20,4 +20,4 @@ jsonfile.writeFile(FILE_PATH, data,()=>{
 }
 
 
-makeCommit(100)
+makeCommit(50)
